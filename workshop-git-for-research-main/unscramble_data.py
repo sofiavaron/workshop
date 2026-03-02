@@ -30,7 +30,7 @@ def main():
             }
             
             # hint: fix me
-            unscrambled_ratings.insert(0, unscrambled_rating
+            unscrambled_ratings.insert(0, unscrambled_rating)
 
     # write unscrambled ratings to csv
 
